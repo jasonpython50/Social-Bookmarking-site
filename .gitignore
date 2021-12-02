@@ -1,4 +1,4 @@
-cert
+cert.crt
 cert.key
 pipfile
 pipfile.lock
